@@ -28,11 +28,8 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-<<<<<<< HEAD
+
 url: 'https://Lahesol.github.io'
-=======
-url: 'https://lahesol.github.io/'
->>>>>>> 658fa3407f98e3f4e5039f5a93322fdf94135cc5
 
 github:
   username: Lahesol             # change to your github username
@@ -83,17 +80,12 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-<<<<<<< HEAD
+
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
 avatar: ./assets/img/profile.png
-=======
-img_cdn:
 
-# the avatar on sidebar, support local or CORS resources
-avatar:
->>>>>>> 658fa3407f98e3f4e5039f5a93322fdf94135cc5
 
 # boolean type, the global switch for ToC in posts.
 toc: true
