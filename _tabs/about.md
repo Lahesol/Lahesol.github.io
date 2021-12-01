@@ -7,7 +7,7 @@ order: 4
 About Lahesol
 -----------------
 -----------------
-![Alt text](/assets/profile_about.jpg)
+![Alt text](/assets/img/profile_about.jpg)
 ### YOUNGWOO YOO
 #### Gachon University, Korea 
 #### undergraduate course of electronic engineering
