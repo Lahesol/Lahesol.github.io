@@ -11,9 +11,9 @@ About Lahesol
 ### YOUNGWOO YOO
 #### Gachon University, Korea 
 #### undergraduate course of electronic engineering
-
-## Awards
 -----------------
+## Awards
+
 
 ![Alt text](/assets/img/about/entry_camp_award.jpg)
 #### **Gachon Entry Camp, 2019**
