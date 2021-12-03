@@ -16,19 +16,19 @@ About Lahesol
 
 
 ![Alt text](/assets/img/about/entry_camp_award.jpg)
-#### **Gachon Entry Camp, 2019**
-
+#### **Gachon Entry Camp, 2019**  
+  
 
 ![Alt text](/assets/img/about/KU_medical_award.jpg)
-#### **KU Medical Hackaton, 2019**
-
+#### **KU Medical Hackaton, 2019**  
+  
 
 ![Alt text](/assets/img/about/WCRC_award.jpg)
-#### **WCRC Robot Contest, 2019**
-
+#### **WCRC Robot Contest, 2019**  
+  
 
 ![Alt text](/assets/img/about/KETI_mobius_award.jpg)
-#### **KETI mobius developer contest, 2020**
+#### **KETI mobius developer contest, 2020**  
 
 
 
